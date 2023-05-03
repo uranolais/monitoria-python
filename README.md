@@ -17,7 +17,7 @@
 - Link do [Visual Studio Code - VSCode](https://code.visualstudio.com/)
 - Link do [Pycharm](https://www.jetbrains.com/pt-br/pycharm/)
 
-## `Formações e Conteúdos de Python na Alura`
+## `Algumas Formações e Conteúdos de Python na Alura`
 - [Python com Orientação a Objetos](https://cursos.alura.com.br/formacao-Python-linguagem)
 - [Apostila Gratuita de Python e Orientação a Objetos](https://www.alura.com.br/apostila-python-orientacao-a-objetos)
 - [Formação de Django](https://cursos.alura.com.br/formacao-django)
