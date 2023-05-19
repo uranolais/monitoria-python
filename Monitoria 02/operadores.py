@@ -10,9 +10,9 @@ divisao_inteira = a // b #3
 resto = a % b #1
 exponencial = a**b #1000
 
-print(soma,subtracao,multiplicacao,divisao,divisao_inteira,resto,exponencial)
-print('A soma de {} com {} é: {}'.format(a,b,soma))
-print(f'A soma de {a} com {b} é: {soma}')
+# print(soma,subtracao,multiplicacao,divisao,divisao_inteira,resto,exponencial)
+# print('A soma de {} com {} é: {}'.format(a,b,soma))
+# print(f'A soma de {a} com {b} é: {soma}')
 
 #Operadores de Atribuição
 c = 5
@@ -46,9 +46,3 @@ h = False
 e_logico = g and h    # False - Basta um ser falso (2v)
 ou_logico = g or h    # True - Basta um ser verdadeiro
 nao_logico = not g    # False - O contrário
-
-
-
-
-
-

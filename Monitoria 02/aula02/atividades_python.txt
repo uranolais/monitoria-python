@@ -1,0 +1,25 @@
+Vamos para a prática? Faça as seguintes atividades :) Você pode encontrar as respostas nessa mesma pasta com o nome "atividaes_python.py". Qualquer dúvida, pode chamar a Laís Urano ou o Bruno Divino no discord :)
+
+# Atividade 01: Verificação de idade
+
+Faça uma variável do tipo *inteiro* para salvar o valor de uma idade e verifique se a idade está igual ou acima de 18 anos. Imprima na tela "Você é maior de idade" ou "Você é menor de idade".
+
+# Atividade 02: Verificação de valores
+
+Faça uma variável do tipo float para salvar um número qualquer e verifique se o número é positivo, negativo ou zero. Imprima na tela "O número é positivo" ou "O número é negativo" ou "O número é zero".
+
+# Atividade 03: Verifique se o número é par ou impar
+
+Faça uma variável do tipo inteiro para salvar um número qualquer e verifique se o número é par ou impar. Imprima na tela a variável junto com o texto "O número {variavel} é par" ou "O número {variavel} é impar"  
+
+# Atividade 04: Cálculo de média ponderada
+
+Faça três variáveis do tipo float para salvar três notas. Faça mais três variáveis para determinar o peso de cada nota e armazene a média ponderada dessas notas em uma variável qualquer. Imprima o valor da média ponderada no final.
+
+# Atividade 05: Cálculo e verificação de categorias
+
+Faça duas variáveis e realize o calculo de categoria através da fórmula `categoria = valor1 / valor2^2`. Após, verifique em qual das categorias está esses valores, através das condições:
+- Se categoria < 18.5, categoria A
+- Se 18.5 <= categoria < 25, categoria B
+- Se 25 <= categoria <= 30, categoria C
+- Se categoria > 30, categoria D
