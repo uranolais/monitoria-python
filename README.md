@@ -1,6 +1,7 @@
 # Grupo de Estudos de Python - Discord Alura
 ![Grupo de Estudos de Python](https://user-images.githubusercontent.com/95968249/235969454-ed1c8d43-3e7e-4228-a376-625064324718.png)<p align="center">
-
+`Laís Urano e Bruno Divino`
+  
 ## `Artigo sobre Python na Alura`
 ![Artigo](https://user-images.githubusercontent.com/95968249/235970244-2c8d8ef8-8b75-427d-8d6e-4cc8556ed376.png)
 - Link do [Artigo](https://www.alura.com.br/artigos/python)
