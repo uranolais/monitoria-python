@@ -8,6 +8,7 @@ multiplicacao = a * b #30
 divisao = a / b #3.335
 divisao_inteira = a // b #3
 resto = a % b #1
+# 23 % 5 e 4 % 2
 exponencial = a**b #1000
 
 # print(soma,subtracao,multiplicacao,divisao,divisao_inteira,resto,exponencial)
