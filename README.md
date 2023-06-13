@@ -35,7 +35,7 @@
 - [Codility](https://www.codility.com/)
 - [LeetCode](https://leetcode.com/)
 - [RoadMap](https://roadmap.sh/roadmaps)
-- [HackRank](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true)
+- [HackerRank](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true)
 - [Exercism](https://exercism.org/)
   
 # ✅ Tecnologias utilizadas
