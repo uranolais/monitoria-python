@@ -29,7 +29,16 @@
 - [Deep Learning com Pytorch](https://cursos.alura.com.br/formacao-deep-learning-pytorch)
 - [Keras: primeiros passos em redes neurais](https://cursos.alura.com.br/course/keras-primeiros-passos-redes-neurais)
 
-
+## `Onde Praticar:`
+- [BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1000)
+- [CodeWars](https://www.codewars.com/)
+- [Codility](https://www.codility.com/)
+- [LeetCode](https://leetcode.com/)
+- [RoadMap](https://roadmap.sh/roadmaps)
+- [HackerRank](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true)
+- [Exercism](https://exercism.org/)
+  
 # ✅ Tecnologias utilizadas
 - `Python`
 - `VsCode`
+  
